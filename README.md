@@ -6,12 +6,19 @@ The primary objective is to create a comprehensive and dynamic Power BI dashboar
 
 ## Questions (KPI)
 -How much have we sold over time?
+
 KPI: Total Internet Sales over time (e.g., daily, weekly, monthly, yearly sales trends).
+
 -Which customers are our most valuable?
+
 KPI: Sales by Customer (e.g., top 10 customers by revenue).
+
 KPI: Number of returning customers.
+
 -Which products are performing the best?
+
 KPI: Sales by Product (e.g., top-selling products by quantity or revenue).
+
 KPI: Revenue from product categories.
 
 ## Dashboard Interaction
@@ -19,6 +26,9 @@ KPI: Revenue from product categories.
 
 ## Process
 This project used a three-step process to solve a business problem:
+
 -Data Engineering: Utilized SQL to extract, clean, and structure raw sales data, preparing it for business intelligence.
+
 -Data Visualization: Built an interactive Power BI dashboard to visualize sales performance, product trends, and customer insights.
+
 -Business Intelligence: Delivered a final product that provides a clear overview of sales-to-budget performance and enables sales staff to make data-driven decisions.
