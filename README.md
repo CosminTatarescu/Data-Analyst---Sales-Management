@@ -32,3 +32,6 @@ This project used a three-step process to solve a business problem:
 -Data Visualization: Built an interactive Power BI dashboard to visualize sales performance, product trends, and customer insights.
 
 -Business Intelligence: Delivered a final product that provides a clear overview of sales-to-budget performance and enables sales staff to make data-driven decisions.
+
+## Dashboard
+<img width="1962" height="1100" alt="Dashboard" src="https://github.com/user-attachments/assets/512445cb-941d-4abb-8eff-9f68b9304068" />
