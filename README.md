@@ -35,3 +35,16 @@ This project used a three-step process to solve a business problem:
 
 ## Dashboard
 <img width="1962" height="1100" alt="Dashboard" src="https://github.com/user-attachments/assets/512445cb-941d-4abb-8eff-9f68b9304068" />
+
+## Project insight
+
+-Top-Performing Products and Customers: The dashboard highlighted which products and clients were the most profitable. This information can be used to inform marketing strategies, inventory management, and customer relationship management.
+
+-Individual Sales Representative Performance: The ability to filter by salesperson provided a clear view of individual performance. This is essential for a sales manager to coach team members, set personalized goals, and recognize top performers.
+
+-Sales Trends Over Time: The time-series analysis showed how sales fluctuated throughout the year. This insight helps in understanding seasonality and identifying periods of high or low performance, which can be used to optimize sales campaigns and resource allocation.
+
+## Final Conclusion
+
+In conclusion, this project successfully transitioned the company from static, report-based sales tracking to a dynamic, visual, and data-driven approach. By using SQL for robust data preparation and Power BI for intuitive visualization, the final dashboard delivered a comprehensive solution that met all of the client's demands. The project's success is measured by its ability to provide clear, real-time insights that enable sales managers and representatives to make informed decisions, ultimately driving sales growth and improving overall business performance.
+
