@@ -39,8 +39,10 @@ This project used a three-step process to solve a business problem:
 
 -Business Intelligence: Delivered a final product that provides a clear overview of sales-to-budget performance and enables sales staff to make data-driven decisions.
 
-## Dashboard
+## Dashboard and Data Model
 <img width="1962" height="1100" alt="Dashboard" src="https://github.com/user-attachments/assets/512445cb-941d-4abb-8eff-9f68b9304068" />
+
+<img width="1356" height="1044" alt="Data Model" src="https://github.com/user-attachments/assets/2a03c75f-db2f-4346-a128-07052b5a0fe9" />
 
 ## Project insight
 
