@@ -24,6 +24,12 @@ KPI: Revenue from product categories.
 ## Dashboard Interaction
 - <a href="https://github.com/CosminTatarescu/Data-Analyst---Sales-Management/blob/main/Dashboard.png">View Dashboard</a>
 
+## SQL data cleansed and interactions from the different tables out excel data
+
+<img width="554" height="644" alt="SQL" src="https://github.com/user-attachments/assets/22964ab8-0e59-47d3-9c33-1859eef61f2a" />
+
+<img width="808" height="538" alt="SQL P2" src="https://github.com/user-attachments/assets/9cf07a20-eaef-4893-97cb-34532adf5244" />
+
 ## Process
 This project used a three-step process to solve a business problem:
 
