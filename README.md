@@ -20,3 +20,6 @@ KPI: Number of returning customers.
 KPI: Sales by Product (e.g., top-selling products by quantity or revenue).
 
 KPI: Revenue from product categories.
+
+## Dashboard Interaction
+- <a href="https://github.com/CosminTatarescu/Data-Analyst---Sales-Management/blob/main/Dashboard.png">View Dashboard</a>
