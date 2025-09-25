@@ -2,4 +2,4 @@
 ## Objective
 The primary objective is to create a comprehensive and dynamic Power BI dashboard that replaces static sales reports. This dashboard should provide sales teams with clear, actionable insights into internet sales performance, enabling them to make data-driven decisions. The key focus is on analyzing sales by product, customer, and salesperson.
 ## Data set's used
-
+- <a https://github.com/CosminTatarescu/Data-Analyst---Sales-Management/blob/main/Data%20set%20after%20data%20cleansed%20with%20SQL.xlsx </a>
